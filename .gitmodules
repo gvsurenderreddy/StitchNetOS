@@ -13,3 +13,6 @@
 [submodule "stitch-switch/stitch-click"]
 	path = stitch-switch/stitch-click
 	url = git@github.com:asridharan/stitch-click.git
+[submodule "stitch-switch/stitch-switch-cp"]
+	path = stitch-switch/stitch-switch-cp
+	url = git@github.com:asridharan/stitch-switch-cp.git
