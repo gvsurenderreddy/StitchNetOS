@@ -1,0 +1,6 @@
+[submodule "stitch-admin/stitch-kube"]
+	path = stitch-admin/stitch-kube
+	url = git@github.com:asridharan/stitch-kube.git
+[submodule "stitch-admin/stitch-apps"]
+	path = stitch-admin/stitch-apps
+	url = git@github.com:asridharan/stitch-apps.git
