@@ -4,3 +4,6 @@
 [submodule "stitch-admin/stitch-apps"]
 	path = stitch-admin/stitch-apps
 	url = git@github.com:asridharan/stitch-apps.git
+[submodule "stitch-webservice"]
+	path = stitch-admin/stitch-webservice
+	url = git@github.com:asridharan/stitch-webservice.git
