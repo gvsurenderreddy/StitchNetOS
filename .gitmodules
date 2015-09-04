@@ -7,3 +7,6 @@
 [submodule "stitch-webservice"]
 	path = stitch-admin/stitch-webservice
 	url = git@github.com:asridharan/stitch-webservice.git
+[submodule "stitch-switch/stitch-tunnel"]
+	path = stitch-switch/stitch-tunnel
+	url = git@github.com:asridharan/stitch-tunnel.git
