@@ -10,3 +10,6 @@
 [submodule "stitch-switch/stitch-tunnel"]
 	path = stitch-switch/stitch-tunnel
 	url = git@github.com:asridharan/stitch-tunnel.git
+[submodule "stitch-switch/stitch-click"]
+	path = stitch-switch/stitch-click
+	url = git@github.com:asridharan/stitch-click.git
